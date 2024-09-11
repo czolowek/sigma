@@ -1,0 +1,13 @@
+commands = {
+        "show_all_animals_cursed": "показать всех виликуваних тварин",         
+        "add_animal_at_animals_cursed":"Додати нову тварину до списку на лікування",  
+        "animal_not_cursed":"Тварину вилікувано",                          
+        "show_any_all_cursed":"Показати список вилікуваних тварин",          
+        "exit":"Вийти з програми",                            
+        "delete_animal":"Видалити помилково додану тварину за ім'ям",
+        "delete_animal_number":"Видалити помилково додану тварину за номером",
+        "animals_sorted":"Відсортувати список тварин за ім'ям",
+        "reneme_animal":"Змінити ім'я тварини",                       
+        "show_animal_number":"Знайти номер тварини за ім'ям"
+    }
+pprint(commands,width=200)
