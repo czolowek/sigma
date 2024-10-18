@@ -13,8 +13,7 @@ class women:
    
 print(women.runing)
 print(women.age)
-
-
+# а
 class boys:
     color = "white"
     rost = "133"
